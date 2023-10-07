@@ -1,0 +1,4 @@
+# Database settings
+CRATEDB:
+  host: 10.147.17.190
+  port: 4201

@@ -1,0 +1,11 @@
+boto3==1.28.40
+botocore==1.31.40
+brotlipy==0.7.0
+crate==0.33.0
+numpy==1.25.2
+pandas==2.1.0
+pendulum==2.1.2
+plotly==5.16.1
+psycopg2-binary==2.9.7
+streamlit==1.27.0
+watchdog==3.0.0
